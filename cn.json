@@ -3,12 +3,13 @@
   "rules": [
     {
       "domain": [
-        "nstool.netease.com",
+        "www.taobao.com",
         "browserleaks.com"
       ],
       "domain_suffix": [
         "ip138.com",
-        "ip.cn"
+        "ip.cn",
+        "netease.com"
       ]
     }
   ]
