@@ -4,12 +4,10 @@
     {
       "domain": [
         "nstool.netease.com",
-        "www.dnsleaktest.com",
-        "www.google.com"
+        "browserleaks.com"
       ],
       "domain_suffix": [
         "ip138.com",
-        "ipleak.net",
         "ip.cn"
       ]
     }
